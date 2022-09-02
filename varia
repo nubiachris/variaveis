@@ -1,0 +1,5 @@
+<script>
+var ano_corrente=2016
+var nascimento=1982
+alert(ano_corrente-nascimento);
+</script>
